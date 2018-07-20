@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Securities Enforcement Empirical Database (SEED) - Search</title>
+    <link href="/bundles/multiselectCss?v=47mUn0VF4oeLkqxFIe_4JGAfXL2_AuF7wJ1GgCgA1MY1" rel="stylesheet"/>
+
+    <link href="/Content/Site.css" rel="stylesheet"/>
+
+    <link href="/Content/SimpleGrid.css" rel="stylesheet"/>
+
+    <link href="/Content/chosen.css" rel="stylesheet"/>
+
+    <link href="/bundles/selectizeCss?v=QMm1ZiQYxrGBEGStxysel-w1Gqj-NL4BQOQnW7ZCD1Q1" rel="stylesheet"/>
+
+    <link href="/Content/themes/base/css?v=wQl4V-0IpqRaMgOjuMrOg_DBZcyClmZDYKOCtDvWGvQ1" rel="stylesheet"/>
+
+        
+    <script src="/bundles/utility?v=bo5Uxi_C-tPoeDYuZVlR80ZK8MEGbzseu_wnn4qCMtY1"></script>
+
+    <script src="/bundles/modernizr?v=inCVuEFe6J4Q07A0AcRsbJic_UE5MwpRMNGcOtk94TE1"></script>
+
+    <script src="/bundles/jquery?v=_8Y1Bb8hyZWFjlRr9wRmKqKNG26YLpxOoK6i9U6bsP81"></script>
+
+    <script src="/bundles/jqueryval?v=KyQhYRVwcdlz57wYM_44uS1Wf6ZLZRm1Sqgdi6YjJtk1"></script>
+
+    <script src="/bundles/selectize?v=ut7yQl3QNjeJr9mVTUFgu_epXoOqPB3wHVhJIeW8QcM1"></script>
+
+    <script src="/bundles/bootstrap?v=-ktyuuYVm8reiCqek-REkH9kFQQZ53F1Ay-TXz9RIew1"></script>
+
+    <script src="/bundles/local?v=QNg33keJTvDqWijjlQDRjXkskQMEolZoENQfilsE5mU1"></script>
+
+    <script src="/bundles/multiselect?v=v9Xyp38c9KRsmFgjt49c9_mcilUbY90boOY1ugt2WK41"></script>
+
+</head>
+
+<body>
+    <div class="wrap" style="width: 100%;">
+        <div id="banner" class="col-1-1 NyuPurpleBg">
+            <div id="banner-logo">
+                <a href="http://seed.law.nyu.edu" title="SEED Home">
+                    <img src="/Content/themes/nyu/SEED_banner_White_Transparent.png"
+                         alt="NYU-SEED Logo" />
+                </a>
+            </div>
+            <div id="banner-title">SEED</div>
+            <div id="menuToggle">
+                <img alt="Display Menu" src="/Content/themes/nyu/menu-icon.png"/>
+            </div>
+        </div>
+        <nav id="menuNav">
+            <div>
+                <span>
+     <a href="http://www.law.nyu.edu/centers/pollackcenterlawbusiness/seed/about-us">
+                        About Us
+                    </a>
+                </span>
+                <span>
+                    <a
+             href="http://www.law.nyu.edu/centers/pollackcenterlawbusiness/seed/faq">
+                        Frequently Asked Questions
+                    </a>
+                </span>
+                <span>
+                    <a
+   href="http://www.law.nyu.edu/centers/pollackcenterlawbusiness/seed/search-notes">
+                        Notes on Search
+                    </a>
+                </span>
+                <span>
+                    <a href="/Search" class="attention">
+                        Start New Search
+                    </a>
+                </span>
+            </div>
+            <div class="formOrphanPrevention"></div>
+        </nav>
+        <div id="roleNav" data-state="hidden">
+            
+
+
+
+<ul class="cleanList">
+        <br /> <br /> <br />
+            <li>
+            <a href="/Account/Login" id="loginLink">Log in</a>
+        </li>
+        <div id="roleNav-mobile">
+            <br/>
+            <li><a href="http://www.law.nyu.edu/centers/pollackcenterlawbusiness/seed/about-us">About Us</a></li>
+            <li><a href="http://www.law.nyu.edu/centers/pollackcenterlawbusiness/seed/faq">FAQ</a></li>
+            <li><a href="http://www.law.nyu.edu/centers/pollackcenterlawbusiness/seed/search-notes">Notes on Search</a></li>
+            <li><a href="/Search">Start New Search</a></li>
+        </div>
+        <br /><br /><br />
+</ul>
+
+
+
+        </div>
+    </div>
+
+        <div id="bodyContent">
+            
+<div class="newRow">
+    <h2>
+        <span class="h2less">
+            Defendant Name:
+        </span>
+        Brent Lemons
+    </h2>
+</div>
+
+
+<div class="newRow subhead">
+    Defendant Type:
+    <span class="bold">
+        Individual
+    </span>
+</div>
+<div id="CaseDetails" class="newRow col-1-1 greyBox">
+    <h3 class="h3less">Initial Case Details</h3>
+
+    
+    <div class="newRow">
+        <span class="col-1-4">
+            Legal Case Name
+        </span>
+        <span class="col-3-4 bold">
+            In the Matter of Brent Lemons
+        </span>
+    </div>
+    <div class="newRow">
+        <span class="col-1-4">First Document Date</span>
+        <span class="col-3-4 bold">10-Jun-2009</span>
+    </div>
+    <div class="newRow">
+        <span class="col-1-4">Initial Filing Format</span>
+        <span class="col-3-4 bold">Administrative Action</span>
+    </div>
+    <div class="newRow">
+        <span class="col-1-4">File Number</span>
+        <span class="col-3-4 bold">3-13513</span>
+    </div>
+    <div class="newRow verticalSpacing">
+        <span class="col-1-4">
+            Allegation Type
+        </span>
+        <span class="col-3-4 bold">Securities Offering</span>
+    </div>
+    
+    </div>
+
+
+    <div class="newRow col-1-1 softOutline">
+
+        <h3 class="h3less">Violations Alleged</h3>
+
+            <div class="newRow" style="padding-bottom: 5px;">
+                    <div class="col-1-1 bulletHeader">
+                        Exchange Act
+                    </div>
+                <div class="col-1-1 halfTab">
+                    <span style="text-align: center">
+                        <span style="font-weight: bold">&bull;</span>
+                    </span>
+                    <span>Sec 10(b) + Rule 10b-5</span>
+                </div>
+            </div>
+
+    </div>
+    <div class="col-1-1 softOutline headRoom">
+        <h3 class="h3less">Resolutions</h3>
+            <div class="col-1-1 newRow bold">
+                Bars:
+            </div>
+            <ul>
+                    <li>Bar on association with a broker, dealer, investment adviser, municipal securities dealer, municipal advisor, transfer agent, or nationally recognized statistical rating organization (of unspecified duration)</li>
+            </ul>
+        <div class="newRow">
+            <span class="col-1-3 bold">
+                First Resolution Date
+            </span>
+            <span class="col-2-3">
+                10-Jun-2009
+            </span>
+        </div>
+    </div>
+
+    <div id="RelatedDocs" class="softOutline newRow col-1-1 headRoom">
+        <h3 class="tightenChildren h3less">Related Documents:</h3>
+            <div class="newRow col-1-1 headRoom">
+                <span class="col-1-4">
+                    <a href="/Search/DocumentDetail/645/602/1597">34-60092</a>
+                </span>
+                <span class="col-1-4 bold">
+                    10-Jun-2009
+                </span>
+                <span class="col-1-2 bold">
+                    Administrative Proceeding
+                </span>
+            </div>
+                <div class="newRow col-1-1 twoTab bold">
+                    Order Instituting Administrative Proceedings Pursuant to Section 15(b) of the Securities Exchange Act of 1934, Making Findings, and Imposing Remedial Sanctions
+                </div>
+            <div class="newRow col-1-1 twoTab">
+                
+            </div>
+        <div class="formOrphanPrevention"></div>
+    </div>
+
+
+
+
+
+
+    <div id="RelatedActions" class="softOutline newRow headRoom">
+        <h3 class="h3less">Related Actions:</h3>
+
+                <div class="newRow col-1-1 verticalHint">
+                    <span class="col-1-1">
+                        In the Matter of Banc of America Investment Services, Inc. and Virginia Holliday 
+                    </span>
+                </div>
+            <div class="newRow col-1-1 verticalHint">
+                <span class="col-1-1 oneTab">
+<a href="/Search/ActionDetail/272/288">Banc of America Investment Services, Inc</a>                </span>
+            </div>
+            <div class="newRow col-1-1 verticalHint">
+                <span class="col-1-1 oneTab">
+<a href="/Search/ActionDetail/272/980">Virginia Holliday</a>                </span>
+            </div>
+                <div class="newRow col-1-1 verticalHint">
+                    <span class="col-1-1">
+                        SEC v. Brent Lemons
+                    </span>
+                </div>
+            <div class="newRow col-1-1 verticalHint">
+                <span class="col-1-1 oneTab">
+<a href="/Search/ActionDetail/644/602">Brent Lemons</a>                </span>
+            </div>
+        <div class="formOrphanPrevention"></div>
+    </div>
+
+
+
+
+
+        </div>
+
+    
+    <footer>
+        <div class="col-1-1 NyuPurpleBg">&nbsp;  </div>
+        <div>
+            <p>
+                &copy; 2018 | 
+                New York University School of Law | 
+                40 Washington Square South, New York, NY 10012 | 
+                <a href="http://www.law.nyu.edu/centers/pollackcenterlawbusiness/seed/disclaimer-user-agreement">
+                    Disclaimer and User Agreement
+                </a>
+            </p>
+        </div>
+        <div>
+            <span title="Monday, June 11, 2018 5:03:41 PM">
+                Build 20180611170341
+            </span>
+        </div>
+    </footer>
+</body>
+</html>
